@@ -1,11 +1,11 @@
-# 💻 **¡Hola! Soy Luis Alardin**  
-¡Bienvenido a mi perfil de GitHub! Soy un **Desarrollador Fullstack Jr** apasionado por el desarrollo de software y siempre en busca de aprender nuevas tecnologías.  
+# 💻 **Hi! I'm Luis Alardin**  
+Welcome to my GitHub profile! I’m a **Fullstack Developer Jr** passionate about software development and always eager to learn new technologies.  
 
 ---
 
-## 🛠️ **Tecnologías que me apasionan**  
-Me encanta trabajar con una amplia variedad de lenguajes de programación, herramientas y frameworks, entre los cuales destacan:  
-- **Lenguajes:**  
+## 🛠️ **Technologies I Love**  
+I enjoy working with a wide variety of programming languages, tools, and frameworks, including:  
+- **Languages:**  
   - Python 🐍  
   - Java ☕  
   - Dart 🎯  
@@ -14,41 +14,35 @@ Me encanta trabajar con una amplia variedad de lenguajes de programación, herra
   - HTML & CSS 🎨  
   - JavaScript ⚡  
 
-- **Frameworks y herramientas:**  
+- **Frameworks and Tools:**  
   - Django 🌐  
   - Laravel 🛠️  
   - Node.js ⚙️  
 
 ---
 
-## 📐 **Conocimientos adicionales**  
-Además de mis habilidades en programación, también tengo experiencia en:  
-- **Arquitecturas de Software:**  
+## 📐 **Additional Knowledge**  
+In addition to my programming skills, I also have experience in:  
+- **Software Architectures:**  
   - MVC  
   - MTV  
-- **Metodologías de trabajo:**  
-  - Scrum 🏃‍♀️  
+- **Work Methodologies:**  
+  - Scrum 🏃‍♂️  
 
 ---
 
-## 🎯 **Acerca de mí**  
-Me considero una persona curiosa, autodidacta y apasionado por resolver problemas con soluciones creativas. Me gusta trabajar en equipo y utilizar metodologías ágiles para lograr objetivos de forma eficiente.  
+## 🎯 **About Me**  
+I consider myself a curious, self-taught, and passionate individual who loves solving problems with creative solutions. I enjoy teamwork and using agile methodologies to achieve goals efficiently.  
 
 ---
 
-## 🌟 **Proyectos destacados**  
-Explora algunos de mis proyectos más interesantes aquí en mi perfil y no dudes en contactarme si tienes alguna pregunta o propuesta. ¡Estoy abierto a colaborar y aprender juntos!  
+## 🌟 **Featured Projects**  
+Explore some of my most exciting projects here on my profile, and feel free to reach out if you have any questions or collaboration ideas. I’m always open to learning and working together!  
 
 ---
 
-## 📫 **Conecta conmigo**  
-📧 anrushgg@gmail.com  
-💼 www.linkedin.com/in/luis-fernando-salas-alardin-1b2992287  
+## 📫 **Connect with Me**  
+📧 anrushgg@gmail.com 
+💼 www.linkedin.com/in/luis-fernando-salas-alardin-1b2992287 
 
-¡Gracias por visitar mi perfil! 🚀
-
-
-<!---
-ByronGG/ByronGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for visiting my profile! 🚀
