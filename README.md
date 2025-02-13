@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<h2>I'm a computer systems engineer / Full-Stack Dev Jr.👨‍💻</h2>
+I'm a computer systems engineer / Full-Stack Dev Jr.👨‍💻
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend, Backend and Data-Science technologies 😅
