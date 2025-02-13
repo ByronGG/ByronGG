@@ -53,15 +53,10 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
-
 <h2>Github Stats:</h2> 
-
 
 [![](https://github-readme-stats.vercel.app/api?username=ByronGG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ByronGG)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ByronGG&theme=material-palenight)](https://github.com/ByronGG)
-
-
-
 
 ## Checkout my Social Media
 
