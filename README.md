@@ -4,7 +4,7 @@
 
 I'm a **Computer Systems Engineer** and **Full-Stack Developer** with **2+ years of professional experience** building web apps, internal tooling, automation and infrastructure. 👨‍💻
 
-- 🏢 Currently working as **Software Department Lead** at *Hy Teck Fluid Power*, where I build and maintain a Django/ERP platform on a VPS.
+- 🏢 Currently working as a **Software Department Lead**, where I build and maintain a Django/ERP platform on a VPS.
 - 🚀 I work across the whole stack: **React + Vite + TypeScript** on the front, **Django / FastAPI** on the back, deployed and managed on **Ubuntu / Nginx / Gunicorn / Docker**.
 - 🤖 I design **automation & AI workflows** with **n8n** (contact capture, classification and outreach) to extend the company's CRM/ERP.
 - 📚 Big believer in **self-directed learning** — constantly leveling up across Frontend, Backend, DevOps and Data.
@@ -83,10 +83,25 @@ I'm a **Computer Systems Engineer** and **Full-Stack Developer** with **2+ years
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
-<h2>Github Stats:</h2>
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| **ERP Platform** | Web platform (ERP) for managing a company's operations and internal processes, deployed on a VPS. | `Django` `Python` `PostgreSQL` `Nginx` `Gunicorn` `Docker` |
+| **CRM Automations** | Automation workflows that capture contacts from email, classify them with AI and send personalized outreach. | `n8n` `OpenAI` `Python` |
+| **Mobile Companion App** | Companion mobile app integrated with the ERP ecosystem. | `Flutter` `Dart` |
+| **Developer Portfolio** | Personal landing page showcasing my work and skills. | `React` `Vite` `TypeScript` `Tailwind CSS` |
+
+<!-- Tip: replace the project names with links to their repos, e.g. **[ERP Platform](https://github.com/ByronGG/your-repo)** -->
+<!-- And feel free to rename each project to its real name. -->
+
+
+## 📊 Github Stats:
 
 [![](https://github-readme-stats.vercel.app/api?username=ByronGG&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ByronGG)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ByronGG&theme=material-palenight)](https://github.com/ByronGG)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronGG&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&locale=en)](https://github.com/ByronGG)
 
 ## Checkout my Social Media
 
