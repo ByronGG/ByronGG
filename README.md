@@ -108,6 +108,6 @@ I'm a **Computer Systems Engineer** and **Full-Stack Developer** with **2+ years
 <a href="https://www.instagram.com/luis.alardin.g/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/luis-fernando-salas-alardin-1b2992287/">
+<a href="[https://www.linkedin.com/in/luis-fernando-salas-alardin-1b2992287/](https://www.linkedin.com/in/luisalardin/)">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
